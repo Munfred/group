@@ -3,7 +3,7 @@ layout: page
 title: people
 permalink: /people/
 description: 
-nav: true
+nav: false
 display_categories: [Ph.D. students, B.S. and M.S. students, alumni]
 horizontal: false
 ---
